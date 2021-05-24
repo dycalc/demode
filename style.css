@@ -201,7 +201,7 @@ section {
 .features {
   display: grid;
   /* 生成3列，每列1fr， 等于 1fr 1fr 1fr */
-  grid-template-columns: repeat(3, 1fr);
+  grid-template-columns: repeat(5, 1fr);
   grid-template-rows: 126px 126px;
   column-gap: 5vw;
 }
